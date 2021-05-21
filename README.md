@@ -5,7 +5,7 @@
   <ul>
     <li> :round_pushpin: I from Brazil.</li>
     <li> :computer: Javascript and Python programmer.</li>
-    <li> :mortar_board: Professional Systems Analyst by FIAP by Exin</li>
+    <li> :mortar_board: Professional Systems Analyst by FIAP</li>
     <li> :mortar_board: Certified <b>ITL</b> by Exin</li>
     <li> :mortar_board: Certified <b>Programmer</b> by Impacta Certified Specialist</li>
 
