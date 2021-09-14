@@ -8,7 +8,7 @@
     <li> :mortar_board: Professional Systems Analyst by FIAP</li>
     <li> :mortar_board: Certified <b>ITL</b> by Exin</li>
     <li> :mortar_board: Certified <b>Programmer</b> by Impacta Certified Specialist</li>
-    <li> :computer: Tech Manager <b>Programmer</b> at MZ GROUP</li>
+    <li> :computer: Tech Manager at <b>MZ GROUP</b> </li>
 
   </ul>
 
